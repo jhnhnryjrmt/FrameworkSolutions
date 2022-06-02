@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\FrameworkSolutions\FrameworkSolutions\bin\Debug\FrameworkSolutions.dll
+d:\documents\visual studio 2013\Projects\FrameworkSolutions\FrameworkSolutions\bin\Debug\FrameworkSolutions.pdb
+d:\documents\visual studio 2013\Projects\FrameworkSolutions\FrameworkSolutions\obj\Debug\FrameworkSolutions.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\FrameworkSolutions\FrameworkSolutions\obj\Debug\FrameworkSolutions.dll
+d:\documents\visual studio 2013\Projects\FrameworkSolutions\FrameworkSolutions\obj\Debug\FrameworkSolutions.pdb
